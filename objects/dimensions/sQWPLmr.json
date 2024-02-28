@@ -1,0 +1,25 @@
+{
+  "qInfo": {
+    "qId": "sQWPLmr",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "H",
+    "qFieldDefs": [
+      "ДатаЗаказа.autoCalendar.Year",
+      "ДатаЗаказа.autoCalendar.Month"
+    ],
+    "qFieldLabels": [],
+    "title": "Период",
+    "coloring": {
+      "changeHash": "0.05130092421924548",
+      "hasValueColors": false,
+      "colorMapRef": "sQWPLmr"
+    }
+  },
+  "qMetaDef": {
+    "title": "Период",
+    "description": "",
+    "tags": []
+  }
+}

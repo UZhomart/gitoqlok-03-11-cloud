@@ -1,0 +1,24 @@
+{
+  "qInfo": {
+    "qId": "rksDCPa",
+    "qType": "dimension"
+  },
+  "qDim": {
+    "qGrouping": "H",
+    "qFieldDefs": [
+      "Страна",
+      "Город"
+    ],
+    "qFieldLabels": [],
+    "title": "Гео",
+    "coloring": {
+      "changeHash": "0.1850340713966263",
+      "hasValueColors": false
+    }
+  },
+  "qMetaDef": {
+    "title": "Гео",
+    "description": "",
+    "tags": []
+  }
+}

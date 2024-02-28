@@ -1,0 +1,1578 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "355665a3-302d-4270-965b-b8eb285c6a9e",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "user story",
+      "description": ""
+    },
+    "rank": 3,
+    "thumbnail": {
+      "qStaticContentUrlDef": {}
+    },
+    "columns": 30,
+    "rows": 15,
+    "cells": [
+      {
+        "name": "5077c5c4-5089-4b64-82ce-7013991d35fe",
+        "type": "filterpane",
+        "col": 0,
+        "row": 0,
+        "colspan": 3,
+        "rowspan": 7,
+        "bounds": {
+          "y": 0,
+          "x": 0,
+          "width": 10,
+          "height": 46.666666666666664
+        }
+      },
+      {
+        "name": "e24c34e4-f0b7-4aea-b932-df6875603c4f",
+        "type": "filterpane",
+        "col": 0,
+        "row": 7,
+        "colspan": 3,
+        "rowspan": 3,
+        "bounds": {
+          "y": 46.666666666666664,
+          "x": 0,
+          "width": 10,
+          "height": 20
+        }
+      },
+      {
+        "name": "ThHxkmh",
+        "type": "linechart",
+        "col": 3,
+        "row": 0,
+        "colspan": 14,
+        "rowspan": 8,
+        "bounds": {
+          "y": 0,
+          "x": 10,
+          "width": 46.666666666666664,
+          "height": 53.333333333333336
+        }
+      },
+      {
+        "name": "ZBNmp",
+        "type": "linechart",
+        "col": 17,
+        "row": 8,
+        "colspan": 13,
+        "rowspan": 7,
+        "bounds": {
+          "y": 53.333333333333336,
+          "x": 56.666666666666664,
+          "width": 43.333333333333336,
+          "height": 46.666666666666664
+        }
+      },
+      {
+        "name": "amhPwB",
+        "type": "linechart",
+        "col": 17,
+        "row": 0,
+        "colspan": 13,
+        "rowspan": 8,
+        "bounds": {
+          "y": 0,
+          "x": 56.666666666666664,
+          "width": 43.333333333333336,
+          "height": 53.333333333333336
+        }
+      },
+      {
+        "name": "CaajPv",
+        "type": "filterpane",
+        "col": 0,
+        "row": 10,
+        "colspan": 3,
+        "rowspan": 5,
+        "bounds": {
+          "y": 66.66666666666666,
+          "x": 0,
+          "width": 10,
+          "height": 33.33333333333333
+        }
+      }
+    ],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "customRowBase": 12,
+    "gridResolution": "medium",
+    "layoutOptions": {
+      "mobileLayout": "LIST"
+    },
+    "gridMode": "edit"
+  },
+  "qChildren": [
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "e24c34e4-f0b7-4aea-b932-df6875603c4f",
+          "qType": "filterpane"
+        },
+        "qMetaDef": {},
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "visualization": "filterpane",
+        "version": "0.15.2",
+        "qChildListDef": {
+          "qData": {}
+        },
+        "appId": "C:\\Users\\Lenovo PC\\Documents\\Qlik\\Sense\\Apps\\03-11 Линейный график.qvf"
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "c58c3d81-071a-4e28-9ab6-8202786597bf",
+              "qType": "listbox"
+            },
+            "qMetaDef": {},
+            "qListObjectDef": {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "Группа"
+                ],
+                "qFieldLabels": [
+                  ""
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "XsCaLJ"
+              },
+              "qFrequencyMode": "N",
+              "qShowAlternatives": true,
+              "qInitialDataFetch": [],
+              "qExpressions": [],
+              "showTitles": true,
+              "title": "",
+              "subtitle": "",
+              "footnote": "",
+              "disableNavMenu": false,
+              "showDetails": true,
+              "showDetailsExpression": false,
+              "qOtherTotalSpec": {}
+            },
+            "showTitles": true,
+            "title": "Группа",
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": false,
+            "showDetails": true,
+            "showDetailsExpression": false,
+            "visualization": "listbox"
+          },
+          "qChildren": []
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "5077c5c4-5089-4b64-82ce-7013991d35fe",
+          "qType": "filterpane"
+        },
+        "qMetaDef": {},
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "visualization": "filterpane",
+        "version": "0.15.2",
+        "qChildListDef": {
+          "qData": {}
+        },
+        "appId": "C:\\Users\\Lenovo PC\\Documents\\Qlik\\Sense\\Apps\\03-11 Линейный график.qvf"
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "5df55b28-f33f-42d9-9d4a-d6cf51262392",
+              "qType": "listbox"
+            },
+            "qMetaDef": {},
+            "qListObjectDef": {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "ДатаЗаказа.autoCalendar.YearMonth"
+                ],
+                "qFieldLabels": [
+                  "ДатаЗаказа.YearMonth"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "gJamPy"
+              },
+              "qFrequencyMode": "N",
+              "qShowAlternatives": true,
+              "qInitialDataFetch": [],
+              "qExpressions": [],
+              "showTitles": true,
+              "title": "",
+              "subtitle": "",
+              "footnote": "",
+              "disableNavMenu": false,
+              "showDetails": true,
+              "showDetailsExpression": false,
+              "qOtherTotalSpec": {}
+            },
+            "showTitles": true,
+            "title": "ДатаЗаказа.YearMonth",
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": false,
+            "showDetails": true,
+            "showDetailsExpression": false,
+            "visualization": "listbox"
+          },
+          "qChildren": []
+        },
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "faea20f1-566e-46c0-9080-d4b4d878bc3e",
+              "qType": "listbox"
+            },
+            "qMetaDef": {},
+            "qListObjectDef": {
+              "qLibraryId": "sQWPLmr",
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [],
+                "qFieldLabels": [],
+                "qSortCriterias": [
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  },
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "rSHrY"
+              },
+              "qFrequencyMode": "N",
+              "qShowAlternatives": true,
+              "qInitialDataFetch": [],
+              "qExpressions": [],
+              "showTitles": true,
+              "title": "",
+              "subtitle": "",
+              "footnote": "",
+              "disableNavMenu": false,
+              "showDetails": true,
+              "showDetailsExpression": false,
+              "qOtherTotalSpec": {}
+            },
+            "showTitles": true,
+            "title": "Период",
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": false,
+            "showDetails": true,
+            "showDetailsExpression": false,
+            "visualization": "listbox"
+          },
+          "qChildren": []
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "ThHxkmh",
+          "qType": "linechart"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [
+            {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "ДатаЗаказа.autoCalendar.YearQuarter"
+                ],
+                "qFieldLabels": [
+                  "ДатаЗаказа.YearQuarter"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "vWZcSv",
+                "othersLabel": "Другие"
+              },
+              "qOtherTotalSpec": {
+                "qOtherMode": "OTHER_OFF",
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qForceBadValueKeeping": true,
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qTotalMode": "TOTAL_OFF",
+                "qReferencedExpression": {}
+              },
+              "qOtherLabel": {
+                "qv": "Другие"
+              },
+              "qTotalLabel": {},
+              "qCalcCond": {},
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              }
+            },
+            {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "Группа"
+                ],
+                "qFieldLabels": [
+                  ""
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "FQfbp",
+                "othersLabel": "Другие"
+              },
+              "qOtherTotalSpec": {
+                "qOtherMode": "OTHER_OFF",
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qForceBadValueKeeping": true,
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qTotalMode": "TOTAL_OFF",
+                "qReferencedExpression": {}
+              },
+              "qOtherLabel": {
+                "qv": "Другие"
+              },
+              "qTotalLabel": {},
+              "qCalcCond": {},
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              }
+            }
+          ],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qLabel": "Маржа",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}Aggr(RangeSum(Above(If(Count([$(=Replace(GetObjectField(0),']',']]'))]) * Count([$(=Replace(GetObjectField(1),']',']]'))]) > 0,  (　Sum([Маржа])　)  + Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}0), 0), 0, RowNo())), ([$(=Replace(GetObjectField(1),']',']]'))], (Numeric, Ascending), (Text, Ascending)), ([$(=Replace(GetObjectField(0),']',']]'))], (Numeric, Ascending), (Text, Ascending))))",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "nEjse",
+                "numFormatFromTemplate": true,
+                "styling": [],
+                "modifiers": [
+                  {
+                    "type": "accumulation",
+                    "disabled": false,
+                    "accumulationDimension": 0,
+                    "crossAllDimensions": false,
+                    "showExcludedValues": true,
+                    "fullAccumulation": true,
+                    "steps": 6,
+                    "outputExpression": "Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}Aggr(RangeSum(Above(If(Count([$(=Replace(GetObjectField(0),']',']]'))]) * Count([$(=Replace(GetObjectField(1),']',']]'))]) > 0,  (　Sum([Маржа])　)  + Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}0), 0), 0, RowNo())), ([$(=Replace(GetObjectField(1),']',']]'))], (Numeric, Ascending), (Text, Ascending)), ([$(=Replace(GetObjectField(0),']',']]'))], (Numeric, Ascending), (Text, Ascending))))",
+                    "base": {
+                      "qDef": "Sum([Маржа])",
+                      "qLibraryId": "",
+                      "qLabel": "Маржа",
+                      "qLabelExpression": ""
+                    }
+                  }
+                ],
+                "base": {
+                  "qDef": "Sum([Маржа])",
+                  "qLibraryId": "",
+                  "qLabel": "Маржа",
+                  "qLabelExpression": ""
+                }
+              },
+              "qSortBy": {
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [
+                {
+                  "qType": "AVERAGE",
+                  "qXColIx": 0,
+                  "qContinuousXAxis": "Time",
+                  "qMultiDimMode": "Sum",
+                  "label": "",
+                  "style": {
+                    "autoColor": true,
+                    "paletteColor": {
+                      "color": "#f93f17",
+                      "index": 9
+                    },
+                    "dashed": false,
+                    "lineDash": ""
+                  },
+                  "cId": "dbBpap"
+                }
+              ],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0,
+            2,
+            1
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 17,
+              "qHeight": 500
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qAlwaysFullyExpanded": true,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qDynamicScript": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [
+                {
+                  "qDef": {
+                    "qLabel": "Продажи",
+                    "qTags": [],
+                    "qGrouping": "N",
+                    "qDef": "Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}Aggr(RangeSum(Above(If(Count([$(=Replace(GetObjectField(0),']',']]'))]) * Count([$(=Replace(GetObjectField(1),']',']]'))]) > 0,  (　Sum([Продажи])　)  + Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}0), 0), 0, RowNo())), ([$(=Replace(GetObjectField(1),']',']]'))], (Numeric, Ascending), (Text, Ascending)), ([$(=Replace(GetObjectField(0),']',']]'))], (Numeric, Ascending), (Text, Ascending))))",
+                    "qNumFormat": {
+                      "qType": "U",
+                      "qnDec": 2,
+                      "qUseThou": 0,
+                      "qDec": ",",
+                      "qThou": " "
+                    },
+                    "qAccumulate": 0,
+                    "qActiveExpression": 0,
+                    "qExpressions": [],
+                    "autoSort": true,
+                    "cId": "XWaDxPx",
+                    "numFormatFromTemplate": true,
+                    "styling": [],
+                    "isCustomFormatted": false,
+                    "modifiers": [
+                      {
+                        "type": "accumulation",
+                        "disabled": false,
+                        "accumulationDimension": 0,
+                        "crossAllDimensions": false,
+                        "showExcludedValues": true,
+                        "fullAccumulation": true,
+                        "steps": 6,
+                        "outputExpression": "Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}Aggr(RangeSum(Above(If(Count([$(=Replace(GetObjectField(0),']',']]'))]) * Count([$(=Replace(GetObjectField(1),']',']]'))]) > 0,  (　Sum([Продажи])　)  + Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}0), 0), 0, RowNo())), ([$(=Replace(GetObjectField(1),']',']]'))], (Numeric, Ascending), (Text, Ascending)), ([$(=Replace(GetObjectField(0),']',']]'))], (Numeric, Ascending), (Text, Ascending))))",
+                        "base": {
+                          "qDef": "Sum([Продажи])",
+                          "qLibraryId": "",
+                          "qLabel": "Продажи",
+                          "qLabelExpression": ""
+                        }
+                      }
+                    ],
+                    "base": {
+                      "qDef": "Sum([Продажи])",
+                      "qLibraryId": "",
+                      "qLabel": "Продажи",
+                      "qLabelExpression": ""
+                    }
+                  },
+                  "qSortBy": {
+                    "qSortByNumeric": -1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  },
+                  "qAttributeExpressions": [],
+                  "qAttributeDimensions": [],
+                  "qCalcCond": {},
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  },
+                  "qTrendLines": [
+                    {
+                      "qType": "AVERAGE",
+                      "qXColIx": 0,
+                      "qContinuousXAxis": "Time",
+                      "qMultiDimMode": "Sum",
+                      "label": "",
+                      "style": {
+                        "autoColor": false,
+                        "paletteColor": {
+                          "index": 10,
+                          "color": "#f93f17"
+                        },
+                        "dashed": false,
+                        "lineDash": ""
+                      },
+                      "cId": "DUScyp"
+                    }
+                  ],
+                  "qMiniChartDef": {
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qOtherTotalSpec": {
+                      "qOtherMode": "OTHER_OFF",
+                      "qOtherCounted": {},
+                      "qOtherLimit": {},
+                      "qOtherLimitMode": "OTHER_GT_LIMIT",
+                      "qForceBadValueKeeping": true,
+                      "qApplyEvenWhenPossiblyWrongResult": true,
+                      "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                      "qTotalMode": "TOTAL_OFF",
+                      "qReferencedExpression": {}
+                    },
+                    "qMaxNumberPoints": -1,
+                    "qAttributeExpressions": []
+                  },
+                  "$$hashKey": "object:11038"
+                }
+              ],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qDynamicScript": []
+            }
+          },
+          "columnOrder": []
+        },
+        "script": "",
+        "refLine": {
+          "refLines": [],
+          "dimRefLines": []
+        },
+        "showTitles": true,
+        "title": "Объем продаж/маржа по каждой стране/город (user story)",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "showDisclaimer": true,
+        "orientation": "horizontal",
+        "scrollbar": "miniChart",
+        "scrollStartPos": 0,
+        "gridLine": {
+          "auto": true,
+          "spacing": 2
+        },
+        "dataPoint": {
+          "showLabels": "auto",
+          "showSegmentLabels": false,
+          "showTotalLabels": true,
+          "show": true
+        },
+        "color": {
+          "auto": true,
+          "mode": "primary",
+          "formatting": {
+            "numFormatFromTemplate": true,
+            "qNumFormat": {},
+            "isCustomFormatted": false
+          },
+          "useBaseColors": "off",
+          "paletteColor": {
+            "index": 6
+          },
+          "useDimColVal": true,
+          "useMeasureGradient": true,
+          "persistent": true,
+          "expressionIsColor": true,
+          "expressionLabel": "",
+          "measureScheme": "sg",
+          "reverseScheme": false,
+          "dimensionScheme": "12",
+          "autoMinMax": true,
+          "measureMin": 0,
+          "measureMax": 10,
+          "altLabel": "Страна",
+          "byMeasureDef": {
+            "label": "Продажи",
+            "key": "Sum([Продажи])",
+            "type": "expression",
+            "activeMeasureIndex": 0
+          },
+          "byDimDef": {
+            "label": "Страна",
+            "key": "Страна",
+            "type": "expression"
+          }
+        },
+        "legend": {
+          "show": true,
+          "dock": "bottom",
+          "showTitle": true
+        },
+        "dimensionAxis": {
+          "continuousAuto": true,
+          "show": "all",
+          "label": "auto",
+          "dock": "near",
+          "axisDisplayMode": "auto",
+          "maxVisibleItems": 10
+        },
+        "preferContinuousAxis": true,
+        "measureAxis": {
+          "show": "all",
+          "dock": "near",
+          "spacing": 1,
+          "autoMinMax": true,
+          "minMax": "min",
+          "min": 0,
+          "max": 10,
+          "logarithmic": false
+        },
+        "tooltip": {
+          "auto": true,
+          "hideBasic": false,
+          "chart": {
+            "style": {
+              "size": "medium"
+            }
+          },
+          "data": {},
+          "title": "",
+          "description": ""
+        },
+        "visualization": "linechart",
+        "version": "1.12.17",
+        "components": [],
+        "showMiniChartForContinuousAxis": true,
+        "lineType": "area",
+        "stackedArea": true,
+        "separateStacking": true,
+        "nullMode": "gap",
+        "maxNumPoints": 2000,
+        "maxNumLines": 12,
+        "qLayoutExclude": {
+          "disabled": {
+            "qExtendsId": "",
+            "barGrouping": {
+              "grouping": "grouped"
+            },
+            "hash": 0.8440016181408561,
+            "appId": "C:\\Users\\Lenovo PC\\Documents\\Qlik\\Sense\\Apps\\03-08 Линейчатая диаграмма.qvf"
+          },
+          "quarantine": {
+            "conditionalShowHide": {
+              "measures": {},
+              "dimensions": {},
+              "alternativeMeasures": {},
+              "alternativeDimensions": {}
+            }
+          }
+        },
+        "hash": 0.2137858019681409
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "CaajPv",
+          "qType": "filterpane"
+        },
+        "qMetaDef": {},
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "visualization": "filterpane",
+        "version": "0.15.2",
+        "qChildListDef": {
+          "qData": {}
+        }
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "f2d9903e-9b08-4102-892a-daf700d67962",
+              "qType": "listbox"
+            },
+            "qMetaDef": {},
+            "qListObjectDef": {
+              "qLibraryId": "rksDCPa",
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [],
+                "qFieldLabels": [],
+                "qSortCriterias": [
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  },
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "jkKJjxW"
+              },
+              "qFrequencyMode": "N",
+              "qShowAlternatives": true,
+              "qInitialDataFetch": [],
+              "qExpressions": [],
+              "showTitles": true,
+              "title": "",
+              "subtitle": "",
+              "footnote": "",
+              "disableNavMenu": false,
+              "showDetails": true,
+              "showDetailsExpression": false,
+              "qOtherTotalSpec": {}
+            },
+            "showTitles": true,
+            "title": "Гео",
+            "subtitle": "",
+            "footnote": "",
+            "disableNavMenu": false,
+            "showDetails": true,
+            "showDetailsExpression": false,
+            "visualization": "listbox"
+          },
+          "qChildren": []
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "ZBNmp",
+          "qType": "linechart"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [
+            {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "ДатаЗаказа.autoCalendar.YearQuarter"
+                ],
+                "qFieldLabels": [
+                  "ДатаЗаказа.YearQuarter"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "BQZxQ",
+                "othersLabel": "Другие"
+              },
+              "qOtherTotalSpec": {
+                "qOtherMode": "OTHER_OFF",
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qForceBadValueKeeping": true,
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qTotalMode": "TOTAL_OFF",
+                "qReferencedExpression": {}
+              },
+              "qOtherLabel": {
+                "qv": "Другие"
+              },
+              "qTotalLabel": {},
+              "qCalcCond": {},
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              }
+            },
+            {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "Группа"
+                ],
+                "qFieldLabels": [
+                  ""
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "faMpS",
+                "othersLabel": "Другие"
+              },
+              "qOtherTotalSpec": {
+                "qOtherMode": "OTHER_OFF",
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qForceBadValueKeeping": true,
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qTotalMode": "TOTAL_OFF",
+                "qReferencedExpression": {}
+              },
+              "qOtherLabel": {
+                "qv": "Другие"
+              },
+              "qTotalLabel": {},
+              "qCalcCond": {},
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              }
+            }
+          ],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qLabel": "Продажи",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}Aggr(RangeSum(Above(If(Count([$(=Replace(GetObjectField(0),']',']]'))]) * Count([$(=Replace(GetObjectField(1),']',']]'))]) > 0,  (　Sum([Продажи])　)  + Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}0), 0), 0, RowNo())), ([$(=Replace(GetObjectField(1),']',']]'))], (Numeric, Ascending), (Text, Ascending)), ([$(=Replace(GetObjectField(0),']',']]'))], (Numeric, Ascending), (Text, Ascending))))",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "jj",
+                "numFormatFromTemplate": true,
+                "styling": [],
+                "modifiers": [
+                  {
+                    "type": "accumulation",
+                    "disabled": false,
+                    "accumulationDimension": 0,
+                    "crossAllDimensions": false,
+                    "showExcludedValues": true,
+                    "fullAccumulation": true,
+                    "steps": 6,
+                    "outputExpression": "Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}Aggr(RangeSum(Above(If(Count([$(=Replace(GetObjectField(0),']',']]'))]) * Count([$(=Replace(GetObjectField(1),']',']]'))]) > 0,  (　Sum([Продажи])　)  + Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}0), 0), 0, RowNo())), ([$(=Replace(GetObjectField(1),']',']]'))], (Numeric, Ascending), (Text, Ascending)), ([$(=Replace(GetObjectField(0),']',']]'))], (Numeric, Ascending), (Text, Ascending))))",
+                    "base": {
+                      "qDef": "Sum([Продажи])",
+                      "qLibraryId": "",
+                      "qLabel": "Продажи",
+                      "qLabelExpression": ""
+                    }
+                  }
+                ],
+                "base": {
+                  "qDef": "Sum([Продажи])",
+                  "qLibraryId": "",
+                  "qLabel": "Продажи",
+                  "qLabelExpression": ""
+                }
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0,
+            2,
+            1
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 17,
+              "qHeight": 500
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qAlwaysFullyExpanded": true,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qDynamicScript": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qDynamicScript": []
+            }
+          }
+        },
+        "script": "",
+        "refLine": {
+          "refLines": [],
+          "dimRefLines": []
+        },
+        "showTitles": true,
+        "title": "Модификатор меры (накопление) квартал",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "showDisclaimer": true,
+        "lineType": "area",
+        "stackedArea": true,
+        "separateStacking": true,
+        "orientation": "horizontal",
+        "scrollbar": "miniChart",
+        "scrollStartPos": 0,
+        "nullMode": "gap",
+        "dataPoint": {
+          "show": true,
+          "showLabels": "auto"
+        },
+        "maxNumPoints": 2000,
+        "maxNumLines": 12,
+        "gridLine": {
+          "auto": true,
+          "spacing": 2
+        },
+        "color": {
+          "auto": true,
+          "mode": "primary",
+          "formatting": {
+            "numFormatFromTemplate": true
+          },
+          "useBaseColors": "off",
+          "paletteColor": {
+            "index": 6
+          },
+          "useDimColVal": true,
+          "useMeasureGradient": true,
+          "persistent": true,
+          "expressionIsColor": true,
+          "expressionLabel": "",
+          "measureScheme": "sg",
+          "reverseScheme": false,
+          "dimensionScheme": "12",
+          "autoMinMax": true,
+          "measureMin": 0,
+          "measureMax": 10
+        },
+        "legend": {
+          "show": true,
+          "dock": "bottom",
+          "showTitle": true
+        },
+        "dimensionAxis": {
+          "continuousAuto": true,
+          "show": "all",
+          "label": "auto",
+          "dock": "near",
+          "axisDisplayMode": "auto",
+          "maxVisibleItems": 10
+        },
+        "preferContinuousAxis": true,
+        "measureAxis": {
+          "show": "all",
+          "dock": "near",
+          "spacing": 1,
+          "autoMinMax": true,
+          "minMax": "min",
+          "min": 0,
+          "max": 10,
+          "logarithmic": false
+        },
+        "tooltip": {
+          "auto": true,
+          "hideBasic": false,
+          "chart": {
+            "style": {
+              "size": "medium"
+            }
+          },
+          "title": "",
+          "description": ""
+        },
+        "visualization": "linechart",
+        "version": "1.30.3",
+        "components": [],
+        "showMiniChartForContinuousAxis": true,
+        "hash": 0.8190906601402335,
+        "appId": "C:\\Users\\Lenovo PC\\Documents\\Qlik\\Sense\\Apps\\03-11 Линейный график (cloud).qvf"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "amhPwB",
+          "qType": "linechart"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [
+            {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "ДатаЗаказа.autoCalendar.YearMonth"
+                ],
+                "qFieldLabels": [
+                  "ДатаЗаказа.YearMonth"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "RYyqnPM",
+                "othersLabel": "Другие"
+              },
+              "qOtherTotalSpec": {
+                "qOtherMode": "OTHER_OFF",
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qForceBadValueKeeping": true,
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qTotalMode": "TOTAL_OFF",
+                "qReferencedExpression": {}
+              },
+              "qOtherLabel": {
+                "qv": "Другие"
+              },
+              "qTotalLabel": {},
+              "qCalcCond": {},
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              }
+            },
+            {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "Группа"
+                ],
+                "qFieldLabels": [
+                  ""
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "qkRsbjV",
+                "othersLabel": "Другие"
+              },
+              "qOtherTotalSpec": {
+                "qOtherMode": "OTHER_OFF",
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qForceBadValueKeeping": true,
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qTotalMode": "TOTAL_OFF",
+                "qReferencedExpression": {}
+              },
+              "qOtherLabel": {
+                "qv": "Другие"
+              },
+              "qTotalLabel": {},
+              "qCalcCond": {},
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              }
+            }
+          ],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qLabel": "Продажи",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}Aggr(RangeSum(Above(If(Count([$(=Replace(GetObjectField(0),']',']]'))]) * Count([$(=Replace(GetObjectField(1),']',']]'))]) > 0,  (　Sum([Продажи])　)  + Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}0), 0), 0, RowNo())), ([$(=Replace(GetObjectField(1),']',']]'))], (Numeric, Ascending), (Text, Ascending)), ([$(=Replace(GetObjectField(0),']',']]'))], (Numeric, Ascending), (Text, Ascending))))",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qDec": ",",
+                  "qThou": " "
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "cKbYSkw",
+                "numFormatFromTemplate": true,
+                "styling": [],
+                "modifiers": [
+                  {
+                    "type": "accumulation",
+                    "disabled": false,
+                    "accumulationDimension": 0,
+                    "crossAllDimensions": false,
+                    "showExcludedValues": true,
+                    "fullAccumulation": true,
+                    "steps": 6,
+                    "outputExpression": "Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}Aggr(RangeSum(Above(If(Count([$(=Replace(GetObjectField(0),']',']]'))]) * Count([$(=Replace(GetObjectField(1),']',']]'))]) > 0,  (　Sum([Продажи])　)  + Sum({1<[$(=Replace(GetObjectField(0),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(0),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(0),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(0),']',']]'))]),'''',''''''),'$','$''&'''))'\"},[$(=Replace(GetObjectField(1),']',']]'))]={\"=Only({1}[$(=Replace(GetObjectField(1),']',']]'))])>='$(=Replace(Replace(MinString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))' and Only({1}[$(=Replace(GetObjectField(1),']',']]'))])<='$(=Replace(Replace(MaxString([$(=Replace(GetObjectField(1),']',']]'))]),'''',''''''),'$','$''&'''))'\"}>}0), 0), 0, RowNo())), ([$(=Replace(GetObjectField(1),']',']]'))], (Numeric, Ascending), (Text, Ascending)), ([$(=Replace(GetObjectField(0),']',']]'))], (Numeric, Ascending), (Text, Ascending))))",
+                    "base": {
+                      "qDef": "Sum([Продажи])",
+                      "qLibraryId": "",
+                      "qLabel": "Продажи",
+                      "qLabelExpression": ""
+                    }
+                  }
+                ],
+                "isCustomFormatted": false,
+                "base": {
+                  "qDef": "Sum([Продажи])",
+                  "qLibraryId": "",
+                  "qLabel": "Продажи",
+                  "qLabelExpression": ""
+                }
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0,
+            2,
+            1
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 17,
+              "qHeight": 500
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qAlwaysFullyExpanded": true,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qDynamicScript": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qDynamicScript": []
+            }
+          }
+        },
+        "script": "",
+        "refLine": {
+          "refLines": [],
+          "dimRefLines": []
+        },
+        "showTitles": true,
+        "title": "Модификатор меры (накопление) месяц",
+        "subtitle": "",
+        "footnote": "",
+        "disableNavMenu": false,
+        "showDetails": true,
+        "showDetailsExpression": false,
+        "showDisclaimer": true,
+        "lineType": "area",
+        "stackedArea": true,
+        "separateStacking": true,
+        "orientation": "horizontal",
+        "scrollbar": "miniChart",
+        "scrollStartPos": 0,
+        "nullMode": "gap",
+        "dataPoint": {
+          "show": true,
+          "showLabels": "auto"
+        },
+        "maxNumPoints": 2000,
+        "maxNumLines": 12,
+        "gridLine": {
+          "auto": true,
+          "spacing": 2
+        },
+        "color": {
+          "auto": true,
+          "mode": "primary",
+          "formatting": {
+            "numFormatFromTemplate": true
+          },
+          "useBaseColors": "off",
+          "paletteColor": {
+            "index": 6
+          },
+          "useDimColVal": true,
+          "useMeasureGradient": true,
+          "persistent": true,
+          "expressionIsColor": true,
+          "expressionLabel": "",
+          "measureScheme": "sg",
+          "reverseScheme": false,
+          "dimensionScheme": "12",
+          "autoMinMax": true,
+          "measureMin": 0,
+          "measureMax": 10,
+          "altLabel": "Группа",
+          "byDimDef": {
+            "label": "Группа",
+            "key": "Группа",
+            "type": "expression"
+          }
+        },
+        "legend": {
+          "show": true,
+          "dock": "bottom",
+          "showTitle": true
+        },
+        "dimensionAxis": {
+          "continuousAuto": true,
+          "show": "all",
+          "label": "auto",
+          "dock": "near",
+          "axisDisplayMode": "auto",
+          "maxVisibleItems": 10
+        },
+        "preferContinuousAxis": false,
+        "measureAxis": {
+          "show": "all",
+          "dock": "near",
+          "spacing": 1,
+          "autoMinMax": true,
+          "minMax": "min",
+          "min": 0,
+          "max": 10,
+          "logarithmic": false
+        },
+        "tooltip": {
+          "auto": true,
+          "hideBasic": false,
+          "chart": {
+            "style": {
+              "size": "medium"
+            }
+          },
+          "title": "",
+          "description": ""
+        },
+        "visualization": "linechart",
+        "version": "1.30.3",
+        "components": [],
+        "showMiniChartForContinuousAxis": true,
+        "qLayoutExclude": {
+          "quarantine": {}
+        },
+        "hash": 0.08345836423017161,
+        "appId": "C:\\Users\\Lenovo PC\\Documents\\Qlik\\Sense\\Apps\\03-11 Линейный график (cloud).qvf"
+      },
+      "qChildren": []
+    }
+  ]
+}
